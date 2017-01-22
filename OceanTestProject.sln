@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{43F0C104-1631-0B08-9CF8-E4B35693BF0B}") = "OceanTestProject", "Assembly-CSharp.csproj", "{62496E60-66D3-BFFE-198D-7BA4141B5E83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62496E60-66D3-BFFE-198D-7BA4141B5E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62496E60-66D3-BFFE-198D-7BA4141B5E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62496E60-66D3-BFFE-198D-7BA4141B5E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62496E60-66D3-BFFE-198D-7BA4141B5E83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
